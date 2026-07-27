@@ -14,6 +14,7 @@ I'm Manish.
 - Java
 - HTML
 - CSS
+- <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,mysql" />
 
 ## Goals
 
