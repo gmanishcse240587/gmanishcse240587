@@ -7,7 +7,6 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech CSE Student
-- 🌱 Preparing for **GATE**
 - 💻 Interested in Software Development
 - 📚 Always learning new technologies
 
