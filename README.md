@@ -33,8 +33,6 @@
 ---
 
 ## 🎯 Goals
-
-- ✅ Crack GATE
 - 🚀 Build impactful software projects
 - 📖 Improve problem-solving skills
 
